@@ -93,6 +93,11 @@ Further cost breakdowns are below.
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
+## Further Reading
+
+  - [Set Up and Run CLIP on SageMaker for Inference](https://rise.climb.dev/clip-on-sagemaker/)
+
+
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
